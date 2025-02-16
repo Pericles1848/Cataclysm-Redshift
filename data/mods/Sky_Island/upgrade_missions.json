@@ -524,7 +524,6 @@
     "components": [
       [ [ "cleansuit", 1 ] ],
       [ [ "warptoken", 5 ] ],
-      [ [ "teddy_bear", 2 ] ],
       [ [ "felt_patch", 4 ] ],
       [ [ "crackpipe", 1 ], [ "pipe_glass", 1 ] ],
       [ [ "seed_mushroom", 5 ] ]
@@ -590,7 +589,6 @@
     "components": [
       [ [ "hazmat_suit", 1 ], [ "wetsuit", 1 ] ],
       [ [ "warptoken", 8 ] ],
-      [ [ "shark_plushie", 1 ] ],
       [ [ "faux_fur", 20 ] ],
       [ [ "eclipse_glasses", 1 ], [ "pipe_glass", 1 ] ],
       [ [ "dahlia_root", 5 ] ],

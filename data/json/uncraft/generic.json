@@ -682,14 +682,6 @@
     "components": [ [ [ "steel_chunk", 3 ] ], [ [ "scrap", 3 ] ] ]
   },
   {
-    "result": "teddy_bear",
-    "type": "uncraft",
-    "activity_level": "LIGHT_EXERCISE",
-    "time": "2 m",
-    "qualities": [ { "id": "FABRIC_CUT", "level": 1 } ],
-    "components": [ [ [ "sheet_cotton", 2 ] ], [ [ "cotton_patchwork", 4 ] ], [ [ "down_feather", 50 ] ] ]
-  },
-  {
     "result": "well_pump",
     "type": "uncraft",
     "activity_level": "MODERATE_EXERCISE",

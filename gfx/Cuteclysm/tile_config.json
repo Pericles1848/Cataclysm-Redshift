@@ -2122,7 +2122,6 @@
         { "id": "tea", "fg": 1444, "rotates": false, "multitile": false },
         { "id": "teapot", "fg": 1457, "rotates": false, "multitile": false },
         { "id": "tec9", "fg": 1058, "rotates": false, "multitile": false },
-        { "id": "teddy", "fg": 1333, "rotates": false, "multitile": false },
         { "id": "telepad", "fg": 1452, "rotates": false, "multitile": false },
         { "id": "teleporter", "fg": 1146, "rotates": false, "multitile": false },
         { "id": "teleumbrella", "fg": 1018, "rotates": false, "multitile": false },

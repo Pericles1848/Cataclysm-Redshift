@@ -228,7 +228,6 @@
       [ "down_blanket", 10 ],
       [ "pillow", 50 ],
       [ "down_pillow", 15 ],
-      [ "teddy_bear", 2 ],
       { "item": "smoxygen_tank", "prob": 10, "charges": [ 0, 12 ] },
       [ "antiparasitic", 3 ],
       { "prob": 3, "group": "diazepam_bottle_plastic_pill_prescription_1_10" },

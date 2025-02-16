@@ -40,10 +40,6 @@
       { "item": "electric_blanket", "prob": 400 },
       { "item": "quilt", "prob": 1000 },
       { "item": "quilt_patchwork", "prob": 800 },
-      { "item": "teddy_bear", "variant": "toy_plush_teddy", "prob": 190 },
-      { "item": "teddy_bear", "prob": 10 },
-      { "item": "shark_plushie", "prob": 5 },
-      { "item": "bodypillow", "prob": 2 }
     ]
   },
   {

@@ -589,7 +589,6 @@
         { "item": "heroin", "x": 11, "y": 11, "amount": [ 3, 7 ] },
         { "item": "syringe", "x": 11, "y": 11, "amount": [ 1, 3 ] },
         { "item": "headscarf", "x": 8, "y": 9, "amount": 3 },
-        { "item": "teddy_bear", "x": 16, "y": 1, "amount": 1 },
         { "item": "holybook_quran", "x": 11, "y": 9, "amount": 1 },
         { "item": "holybook_hadith", "x": 12, "y": 7, "amount": 1 },
         { "item": "long_knit_scarf", "x": 18, "y": 1, "amount": 1 },

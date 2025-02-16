@@ -4807,7 +4807,6 @@
         { "id": "tanning_pelt", "fg": 1163 },
         { "id": "tazer", "fg": 1045 },
         { "id": "teapot", "fg": 1508 },
-        { "id": "teddy", "fg": 1082 },
         { "id": "television", "fg": 1411 },
         { "id": [ "tent_kit", "large_tent_kit", "shelter_kit" ], "fg": 1457 },
         { "id": [ "thermal_mask", "thermal_mask_on", "mask_bunker", "mask_bunker_on" ], "fg": 973 },
