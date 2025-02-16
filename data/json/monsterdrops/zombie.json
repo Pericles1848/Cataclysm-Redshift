@@ -128,12 +128,6 @@
   },
   {
     "type": "item_group",
-    "id": "zombie_fursuits",
-    "subtype": "distribution",
-    "entries": [ { "item": "fursuit", "prob": 50, "damage": [ 2, 3 ] } ]
-  },
-  {
-    "type": "item_group",
     "id": "zed_dust",
     "subtype": "collection",
     "entries": [

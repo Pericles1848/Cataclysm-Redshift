@@ -64,7 +64,6 @@
       { "group": "scientist_costume_unisex", "prob": 20 },
       { "group": "beekeeping_costume_unisex", "prob": 5 },
       { "group": "bondage_costume_unisex", "prob": 30 },
-      { "group": "fursuit_costume_unisex", "prob": 30 }
     ]
   },
   {
@@ -1615,46 +1614,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "fursuit_costume_unisex",
-    "type": "item_group",
-    "//": "For use in halloween as a set of zombie cloth drops for fursuit cosplay zombies",
-    "subtype": "distribution",
-    "entries": [
-      {
-        "collection": [
-          { "item": "leather_belt", "prob": 55, "damage": [ 1, 4 ] },
-          { "group": "shirts_unisex", "prob": 65, "damage": [ 1, 4 ] },
-          { "group": "pants_unisex", "damage": [ 1, 4 ] },
-          { "group": "socks_unisex", "damage": [ 1, 4 ] },
-          { "distribution": [ { "item": "fursuit", "prob": 20, "damage": [ 1, 4 ] } ] },
-          {
-            "distribution": [
-              { "item": "flip_flops", "prob": 35, "damage": [ 1, 4 ] },
-              { "item": "leathersandals", "prob": 25, "damage": [ 1, 4 ] },
-              { "item": "sneakers", "prob": 65, "damage": [ 1, 4 ] }
-            ],
-            "prob": 30
-          },
-          {
-            "distribution": [
-              {
-                "collection": [
-                  { "group": "male_underwear", "damage": [ 1, 4 ] },
-                  { "group": "accesories_personal_mens", "prob": 10, "damage": [ 1, 4 ] }
-                ]
-              },
-              {
-                "collection": [
-                  { "group": "female_underwear", "damage": [ 1, 4 ] },
-                  { "group": "accesories_personal_womens", "prob": 15, "damage": [ 1, 4 ] }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
   }
-]
+  ]

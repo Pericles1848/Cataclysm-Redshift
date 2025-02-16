@@ -49,7 +49,6 @@
     "entries": [
       { "item": "boxer_shorts" },
       { "item": "socks_wool" },
-      { "item": "fursuit", "variant": "dinosuit" },
       { "item": "cardboard_crown_loose" },
       { "item": "boots_winter" },
       { "item": "coat_winter" }

@@ -946,20 +946,5 @@
     "copy-from": "mon_zombie",
     "death_drops": "zombie_reenactor_drops",
     "color": "blue"
-  },
-  {
-    "id": "mon_zombie_fursuit",
-    "type": "MONSTER",
-    "name": { "str": "fursuited zombie" },
-    "description": "A human body, swaying awkwardly in a torn cloth suit of an anthropomorphized animal.  Black goo and blood cakes the suit, and it gives off a foul, rotting odor.",
-    "copy-from": "mon_zombie",
-    "speed": 50,
-    "color": "white_green",
-    "melee_skill": 3,
-    "melee_dice_sides": 4,
-    "melee_damage": [ { "damage_type": "cut", "amount": 2 } ],
-    "death_drops": { "subtype": "collection", "groups": [ [ "default_zombie_clothes", 100 ], [ "zombie_fursuits", 100 ] ] },
-    "armor": { "bash": 5, "cut": 5, "bullet": 1, "electric": 1 },
-    "//": "The torn fursuit offers slightly more protection."
   }
 ]

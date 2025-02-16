@@ -1972,7 +1972,6 @@
       { "prob": 20, "group": "caffeine_bottle_plastic_pill_supplement_1_10" },
       [ "cola_meth", 1 ],
       [ "picklocks", 10 ],
-      [ "fursuit", 4 ],
       [ "jedi_cloak", 4 ],
       { "item": "glowstick", "prob": 60, "charges": 1400 },
       [ "blanket", 10 ],

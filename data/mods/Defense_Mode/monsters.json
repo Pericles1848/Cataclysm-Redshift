@@ -419,15 +419,6 @@
     "morale": 100
   },
   {
-    "id": "mon_zombie_fursuit",
-    "copy-from": "mon_zombie_fursuit",
-    "type": "MONSTER",
-    "vision_day": 99,
-    "vision_night": 99,
-    "aggression": 100,
-    "morale": 100
-  },
-  {
     "id": "mon_zombie_swat",
     "copy-from": "mon_zombie_swat",
     "type": "MONSTER",

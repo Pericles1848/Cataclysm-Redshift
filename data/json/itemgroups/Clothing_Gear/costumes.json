@@ -342,15 +342,10 @@
       { "item": "bodysuit_lycra", "prob": 25 },
       { "item": "suit", "prob": 10 },
       { "item": "tux", "prob": 10 },
-      { "item": "fursuit", "prob": 15 },
       { "item": "clown_suit", "prob": 10 },
-      { "item": "dragonsuit", "prob": 10 },
-      { "item": "felinesuit", "prob": 10 },
       { "item": "bondage_suit", "prob": 15 },
       { "item": "wool_suit_devil", "prob": 15 },
       { "item": "bunny_suit_playboy", "prob": 25 },
-      { "item": "dinosuit", "prob": 10 },
-      { "item": "sharksuit", "prob": 10 },
       { "item": "beekeeping_suit", "prob": 5 },
       { "item": "zentai", "prob": 5 }
     ]
