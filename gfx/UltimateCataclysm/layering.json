@@ -6,7 +6,6 @@
       "item_variants": [
         { "item": "american_flag", "layer": 90, "offset_x": 0, "offset_y": 0 },
         { "item": "national_flag", "layer": 90 },
-        { "item": "pride_flag", "layer": 90 },
         {
           "item": "lab_postit_bio",
           "sprite": [ { "id": "postit_01", "weight": 1 }, { "id": "postit_02", "weight": 1 }, { "id": "postit_03", "weight": 1 } ],
@@ -39,7 +38,6 @@
       "append_variants": "_hoisted",
       "item_variants": [
         { "item": "american_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
-        { "item": "pride_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
         { "item": "state_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
         { "item": "national_flag", "layer": 90, "offset_x": 16, "offset_y": -37 }
       ]
@@ -49,7 +47,6 @@
       "append_variants": "_hoisted",
       "item_variants": [
         { "item": "american_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
-        { "item": "pride_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
         { "item": "state_flag", "layer": 90, "offset_x": 16, "offset_y": -37 },
         { "item": "national_flag", "layer": 90, "offset_x": 16, "offset_y": -37 }
       ]
