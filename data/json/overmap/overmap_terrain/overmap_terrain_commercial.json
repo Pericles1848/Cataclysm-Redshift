@@ -1561,23 +1561,6 @@
   },
   {
     "type": "overmap_terrain",
-    "id": "cs_sex_shop",
-    "copy-from": "generic_city_building",
-    "name": "sex shop",
-    "sym": "x",
-    "color": "i_pink",
-    "extend": { "flags": [ "SOURCE_LUXURY" ] }
-  },
-  {
-    "type": "overmap_terrain",
-    "id": "cs_sex_shop_roof",
-    "copy-from": "generic_city_building_roof",
-    "name": "sex shop roof",
-    "sym": "x",
-    "color": "i_pink"
-  },
-  {
-    "type": "overmap_terrain",
     "id": "cs_internet_cafe",
     "copy-from": "generic_city_building",
     "name": "internet cafe",

@@ -1112,8 +1112,6 @@
         { "id": "craft_shop_2ndfloor_2", "fg": 265 },
         { "id": "craft_shop_roof_2", "fg": 265 },
         { "id": "cs_market_small", "fg": 270 },
-        { "id": "cs_sex_shop", "fg": 274 },
-        { "id": "cs_sex_shop_roof", "fg": 274 },
         { "id": "cs_internet_cafe", "fg": 269 },
         { "id": "cs_internet_cafe_roof", "fg": 269 },
         { "id": "cs_internet_cafe_upper_roof", "fg": 269 },

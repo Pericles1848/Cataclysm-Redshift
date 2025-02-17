@@ -304,12 +304,6 @@
   },
   {
     "type": "start_location",
-    "id": "sloc_sexshop",
-    "name": "Sex Shop",
-    "terrain": [ "cs_sex_shop" ]
-  },
-  {
-    "type": "start_location",
     "id": "sloc_candyshop",
     "name": "Candy Shop",
     "terrain": [ "candy_shop", "candy_shop_1" ]

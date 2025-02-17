@@ -378,8 +378,6 @@
         { "id": "cs_private_park_roof", "fg": [ 661, 663, 662, 660 ], "bg": 7751, "rotates": true },
         { "id": "cs_public_art_piece", "fg": [ 665, 667, 666, 664 ], "bg": 7523, "rotates": true },
         { "id": "cs_public_space", "fg": [ 669, 671, 670, 668 ], "bg": 7523, "rotates": true },
-        { "id": "cs_sex_shop", "fg": [ 673, 675, 674, 672 ], "bg": 7523, "rotates": true },
-        { "id": "cs_sex_shop_roof", "fg": [ 677, 679, 678, 676 ], "bg": 7751, "rotates": true },
         { "id": "cs_tire_shop", "fg": [ 681, 683, 682, 680 ], "bg": 7523, "rotates": true },
         { "id": "cs_tire_shop_roof", "fg": [ 685, 687, 686, 684 ], "bg": 7751, "rotates": true },
         { "id": "dispensary", "fg": [ 689, 691, 690, 688 ], "bg": 7523, "rotates": true },

@@ -677,8 +677,6 @@
         { "id": "home_improvement_roof", "fg": 183, "bg": 88, "rotates": true },
         { "id": "cs_market_small", "fg": 4, "bg": 111 },
         { "id": "cs_market_small_roof", "fg": 4, "bg": 111 },
-        { "id": "cs_sex_shop", "fg": 11, "bg": 141 },
-        { "id": "cs_sex_shop_roof", "fg": 11, "bg": 141 },
         { "id": "cs_internet_cafe", "fg": 126, "bg": 68 },
         { "id": [ "cs_internet_cafe_roof", "cs_internet_cafe_upper_roof" ], "fg": 126, "bg": 68 },
         { "id": "cs_car_showroom", "fg": 47, "bg": 68 },
